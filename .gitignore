@@ -1,0 +1,9 @@
+data/
+*.parquet
+*.csv
+terraform/
+*.tf
+
+venv/
+terraform-outputs.json
+checklist.md

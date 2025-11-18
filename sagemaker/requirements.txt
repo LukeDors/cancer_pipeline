@@ -1,0 +1,7 @@
+scikit-learn
+tensorflow
+boto3
+numpy
+pandas
+argparse
+json
